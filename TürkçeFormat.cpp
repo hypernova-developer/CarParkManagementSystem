@@ -178,7 +178,6 @@ void mainFunction()
 
 int main()
 {
-    // UTF-8 ve Türkçe karakter desteği
     SetConsoleOutputCP(CP_UTF8);
     SetConsoleCP(CP_UTF8);
     setlocale(LC_ALL, "Turkish");
