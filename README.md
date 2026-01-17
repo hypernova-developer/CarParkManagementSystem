@@ -38,9 +38,10 @@ This project is a **Car Park Management System** built in C++. It allows the man
 
 ## How to Run
 1. Compile the C++ code using a compiler that supports Windows libraries (like `g++` or Visual Studio).  
-2. Run the executable.  
-3. Enter the password when prompted.  
-4. Choose the program mode:  
+2. Run the executable.
+3. You can use the executable file in the repository instead of first and second steps too.
+4. Enter the password when prompted.  
+5. Choose the program mode:  
    - `1` → Billing system  
    - `2` → Car park management  
    - `3` → Quit  
