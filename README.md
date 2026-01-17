@@ -51,6 +51,7 @@ This project is a **Car Park Management System** built in C++. It allows the man
 2. Türkçe
 3. Español
 4. Deutsch
+5. Français
 
 ## Output Files
 - `bill.txt` → Stores billing information.  
