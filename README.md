@@ -59,7 +59,7 @@ This project is a **Car Park Management System** built in C++. It allows the man
 
 ## WARNING!
 1. These prompts only work on Windows machines.
-It won't cause any harm but you won't get any result for running the program. 
+It won't cause any harm but you won't get any result for running the program on another machine. 
 OS Friendly versions of my code will get place soon in this repository.
 2. A version that would be compatible in multipe languages in the same time will soon take place in this repository.
 
