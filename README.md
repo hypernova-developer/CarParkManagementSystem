@@ -58,7 +58,6 @@ This project is a **Car Park Management System** built in C++. It allows the man
 - `CarParkManagementSystem.txt` → Stores vehicle count and parking lot status.
 
 ## WARNING!
-WARNING!
 These prompts only work on Windows machines. It won't cause any harm but you won't get any result for running the program on another machine. OS Friendly versions of my code will get place soon in this repository.
 A version that would be compatible in multipe languages in the same time will soon take place in this repository.
 
