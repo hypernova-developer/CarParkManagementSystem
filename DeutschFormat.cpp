@@ -77,7 +77,7 @@ void mainFunction()
             while (true)
             {
                 cout << "Bitte geben Sie das Kennzeichen des Fahrzeugs ein:" << endl;
-                cin >> plate;
+                getline(cin, plate);
 
                 cout << "Bitte geben Sie die Parkdauer ein (Format X.XX):" << endl;
                 cin >> timeSpent;
