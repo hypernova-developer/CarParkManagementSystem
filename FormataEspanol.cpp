@@ -77,7 +77,7 @@ void mainFunction()
             while (true)
             {
                 cout << "Ingrese la matrícula del vehículo:" << endl;
-                cin >> plate;
+                getline(cin, plate);
 
                 cout << "Ingrese el tiempo de permanencia (formato X.XX):" << endl;
                 cin >> timeSpent;
