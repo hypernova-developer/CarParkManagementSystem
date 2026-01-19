@@ -73,7 +73,7 @@ void mainFunction()
                 while (true)
                 {
                     cout << "Car no: 1. Please enter the plate text of vehicle. " << endl;
-                    cin >> plate;
+                    getline(cin, plate);
                     cout << "Please enter the time vehicle stayed in the park. Use the format: X.XX" << endl;
                     cin >> timeSpent;
 
